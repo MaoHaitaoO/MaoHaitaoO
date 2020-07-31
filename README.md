@@ -3,18 +3,18 @@
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
-## Hi,I'm Mao Haitao 👾
+## Hi, I’m Mao Haitao 👾
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" width="20vw" /> I’m currently working on my laptop?
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif?raw=1" width="20vw" /> I’m currently learning how to flex README on the profile and annoy people with 
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/headbang.gif?raw=1" width="20vw" /> I’m looking to collaborate on weird ideas that would be least helpful
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/hmm.gif?raw=1" width="20vw" /> I’m looking for help with looking serious in README
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/happy.gif?raw=1" width="20vw" /> Ask me about why having wheels on laptop is a bad idea
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/powerup.gif?raw=1" width="20vw" /> Pronouns: [recursion](https://github.com/deut-erium/)
+- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/powerup.gif?raw=1" width="20vw" /> Pronouns: recursion
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/coin.gif?raw=1" width="20vw" /> Fun fact: you had a good bad time 
 
   
 
-
+<br>
 
 
 <!--
@@ -55,7 +55,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)
-<hr>
 
 
 
