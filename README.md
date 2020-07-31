@@ -1,5 +1,6 @@
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
